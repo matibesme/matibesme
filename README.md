@@ -16,11 +16,13 @@ Passionate about coding and continuous learning, I work with various programming
 - Concepts: Concurrency, Operating Systems, Distributed Systems, Software Architecture  
 - Tools & Practices: Version Control (Git), Agile methodologies, Team Collaboration
 
+
+
+
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasbesmedrisnik)
-📞 +54 9 11 2671 9874  
-💬 Discord: matibesme
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasbesmedrisnik) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491126719874) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matibesme@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/matibesme)
+
 ---
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and reach out.
